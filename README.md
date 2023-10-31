@@ -1,6 +1,6 @@
 # Welcome!
 Hi! I'm Eduardo Amorim, and that's my Github profile. 👩‍💻 <br>
-I'm just another technology enthusiast and lov in search of new challenges. <br><br>
+I'm just another technology enthusiast in search of new challenges. <br><br>
 👨‍💻 <a href="https://www.linkedin.com/in/eduardo-amorim-922b181a2/">Professionaly</a>, I use **GITHUB** for version control. <br>
 👉 Therefore, here you will only see my **personal projects** and **study materials**. 
 
