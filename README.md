@@ -1,8 +1,4 @@
-# Welcome!
-Hi! I'm Eduardo Amorim, and that's my Github profile. 👩‍💻 <br>
-I'm just another technology enthusiast in search of new challenges. <br><br>
-👨‍💻 <a href="https://www.linkedin.com/in/eduardo-amorim-922b181a2/">Professionaly</a>, I use **GITHUB** for version control. <br>
-👉 Therefore, here you will only see my **personal projects** and **study materials**. 
+Hello World!
 
 ## Languages and Tools
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
@@ -16,11 +12,6 @@ I'm just another technology enthusiast in search of new challenges. <br><br>
   </a>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardosamorim&theme=dracula&layout=compact"> 
 </div>
-  
-  
-## 🤝 Contributing
-- Contributions, issues, and feature requests are welcome for any project!
-- Feel free to check the Issues Page whenever you want.
 
 ## Feel free to get in touch
 - I'll appreciate your contact for any reason. <br><br>
